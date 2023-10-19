@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **an Anime Flutter app** Open Source
  
@@ -18,6 +18,9 @@
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
+ </div>
+ <div align="right">
+     <img src="https://i.gifer.com/embedded/download/3AyY.gif" alt="anime coding">
  </div>
  
 <div align="center"> 
