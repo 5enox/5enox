@@ -64,7 +64,7 @@
 
 <br/><br/>
 <hr/>
-
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="5enox" data-color="#40DCA5" data-emoji="☕"  data-font="Bree" data-text="need coffee To Operate" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Email!+Me;I'm+always+down+to+collab+:)">
 </h3>
