@@ -20,7 +20,7 @@
  
  </div>
  <div align="right">
-     <img src="https://s6.gifyu.com/images/S65ea.gif" alt="anime coding">
+     <img src="https://s6.gifyu.com/images/S65ea.gif" alt="anime coding" width="350" height="200">
  </div>
  
 <div align="center"> 
