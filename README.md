@@ -7,8 +7,28 @@
 <h3 align="center">A passionate Python Dev From Morocco</h3>
 
 <br/>
+<style>
+* {
+  box-sizing: border-box;
+}
 
-<div align="left">
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+<div align="row">
+    <div align="column">
  
  🔭 I’m currently working on **an Anime Flutter app** Open Source
  
@@ -19,9 +39,10 @@
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
- <div align="right">
+ <div align="column">
      <img src="https://s6.gifyu.com/images/S65ea.gif" alt="anime coding" width="350" height="200">
  </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:animikantan@gmail.com">
