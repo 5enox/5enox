@@ -20,7 +20,7 @@
  
  </div>
  <div align="right">
-     <img src="https://i.gifer.com/embedded/download/3AyY.gif" alt="anime coding">
+     <img src="[https://i.gifer.com/embedded/download/3AyY.gif](https://gifyu.com/image/S65ea)" alt="anime coding">
  </div>
  
 <div align="center"> 
