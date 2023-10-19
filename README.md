@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an Anime Flutter app**
+ 🔭 I’m currently working on **an Anime Flutter app** Open Source
  
  🌱 I’m currently learning **Flutter, Dart, firebase**
 
