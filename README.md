@@ -1,31 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5enox.5enox" />
 
-<h1 style='* {
-  box-sizing: border-box;
-}
-
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}'  align="center">
+<h1  align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+5enox!;" />
 </h1>
 
 <h3 align="center">A passionate Python Dev From Morocco</h3>
 
 <br/>
-<div align="row">
-    <div align="column">
+  <div align="center">
  
  🔭 I’m currently working on **an Anime Flutter app** Open Source
  
@@ -36,10 +18,9 @@
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
- <div align="column">
+ <div align="center">
      <img src="https://s6.gifyu.com/images/S65ea.gif" alt="anime coding" width="350" height="200">
  </div>
-</div>
  
 <div align="center"> 
   <a href="mailto:animikantan@gmail.com">
