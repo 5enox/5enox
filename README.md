@@ -9,13 +9,13 @@
 <br/>
   <div align="center">
  
- 🔭 I’m currently working on **an Anime Flutter app** Open Source
+ 🔭 I’m currently working on **Upwork Projects**
  
- 🌱 I’m currently learning **Flutter, Dart, firebase**
+ 🌱 I’m currently learning **AI,ML,LLMs,and NLPs**
 
  💬 Ask me about **Python,Unity 3/2d... or anything [here](https://github.com/5enox/5enox/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **Merge Conflics aren't that hard to Fix!**
  
  </div>
  <div align="center">
@@ -38,6 +38,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,firebase,mysql,flask,docker,kubernetes" /><br>
+    <img src="https://skillicons.dev/icons?i=selenium,tensorflow,pandas,numpy,bs4,linux" /><br>
 </div>
 
 <br/>
