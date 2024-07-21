@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5enox.5enox" />
 
 <h1  align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+5enox!;" />
@@ -39,6 +38,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,firebase,mysql,flask,docker,kubernetes" /><br>
     <img src="https://skillicons.dev/icons?i=selenium,tensorflow,pandas,numpy,bs4,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=fastapi,arch,burpsuite" /><br>
 </div>
 
 <br/>
