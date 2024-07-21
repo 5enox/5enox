@@ -6,17 +6,6 @@
 <h3 align="center">A passionate Python Dev From Morocco</h3>
 
 <br/>
-  <div align="center">
- 
- 🔭 I’m currently working on **Upwork Projects**
- 
- 🌱 I’m currently learning **AI,ML,LLMs,and NLPs**
-
- 💬 Ask me about **Python,Unity 3/2d... or anything [here](https://github.com/5enox/5enox/issues)**
-
- ⚡ Fun fact **Merge Conflics aren't that hard to Fix!**
- 
- </div>
  <div align="center">
      <img src="https://s6.gifyu.com/images/S65ea.gif" alt="anime coding" width="350" height="200">
  </div>
@@ -26,21 +15,19 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://afrtite.is-a.dev/">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
-
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ My Skills ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,vim" /><br>
     <img src="https://skillicons.dev/icons?i=firebase,mysql,flask,docker,kubernetes" /><br>
     <img src="https://skillicons.dev/icons?i=selenium,tensorflow,linux,fastapi,arch,burpsuite" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,mongodb" /><br>
-    
+    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,mongodb" /><br> 
 </div>
 
 <br/>
