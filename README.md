@@ -4,13 +4,13 @@
 
 ###
 
-<div align="left">
-  <img height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ1dGFxdTY5Nmxyc2hmY2k3ZXBlazdyY2xmemc2aGM5bHR2aTZ1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llBprZ5L7Bm2YLX8va/giphy.gif"  />
+<div align="center">
+  <img height="120" src="https://media.giphy.com/headers/nolitacrazylab/kALHzvIdViif.gif"  />
 </div>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -44,7 +44,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@5enox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
