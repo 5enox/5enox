@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi, My name is Abdelghafour<br>Python & Blcokchain Developer from morocco</h2>
+<h2 align="left">Hi 👋, My name is Abdelghafour<br>A Python & Blcokchain Developer from morocco</h2>
 
 ###
 
