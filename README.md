@@ -1,15 +1,7 @@
 <br clear="both">
-
-<h2 align="left">Hi 👋, My name is Abdelghafour<br>A Python & Blcokchain Developer from morocco</h2>
-
-###
-
 <div align="center">
   <img height="120" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3g0ZjcydG9mb3Zhcml5NWp1OGJpN2Y3bWRkenNidDY5aXFubnZzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KkBN1ZKByMSBO/giphy.gif"  />
 </div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
